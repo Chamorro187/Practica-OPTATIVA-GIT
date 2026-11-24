@@ -27,3 +27,7 @@ Juan Pablo Chamorro
 
 - [Practica-OPTATIVA-GIT](https://github.com/Chamorro187/Practica-OPTATIVA-GIT)
 - [Ejercicios_PSeInt](https://github.com/Chamorro187/Ejercicios_PSeInt)
+
+## Memoria
+
+[Memoria de la práctica (PDF)](JuanPabloChamorro%20GitHub.pdf)
