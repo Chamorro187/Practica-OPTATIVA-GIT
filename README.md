@@ -17,3 +17,8 @@ Juan Pablo Chamorro
 ## Repositorio de PSeInt
 
 [Ejercicios_PSeInt](https://github.com/Chamorro187/Ejercicios_PSeInt)
+
+## Ramas
+
+- `master`: proyecto principal.
+- `login`: ejemplo de inicio de sesion y autenticacion.
