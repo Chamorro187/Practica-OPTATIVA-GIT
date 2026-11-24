@@ -13,3 +13,7 @@ Proyecto de práctica de Git y GitHub.
 ## Autor
 
 Juan Pablo Chamorro
+
+## Repositorio de PSeInt
+
+[Ejercicios_PSeInt](https://github.com/Chamorro187/Ejercicios_PSeInt)
