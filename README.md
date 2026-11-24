@@ -22,3 +22,8 @@ Juan Pablo Chamorro
 
 - `master`: proyecto principal.
 - `login`: ejemplo de inicio de sesion y autenticacion.
+
+## Repositorios
+
+- [Practica-OPTATIVA-GIT](https://github.com/Chamorro187/Practica-OPTATIVA-GIT)
+- [Ejercicios_PSeInt](https://github.com/Chamorro187/Ejercicios_PSeInt)
